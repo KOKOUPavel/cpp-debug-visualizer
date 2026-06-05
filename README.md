@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # C++ Debug Visualizer
 
 A VS Code extension that makes debugging C++ code more visual and intuitive.
